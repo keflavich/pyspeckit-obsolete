@@ -52,3 +52,9 @@ The PySpecKit logo uses the Voyager 1 image of Earth known as the "Pale Blue Dot
 [ `original source <http://visibleearth.nasa.gov/view_rec.php?id=601>`_ |  `reprocessed image <http://instructors.cwrl.utexas.edu/mcginnis/sites/instructors.cwrl.utexas.edu.mcginnis/files/pale_blue_dot2.jpg>`_ ]
 
 
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/keflavich/pyspeckit/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
